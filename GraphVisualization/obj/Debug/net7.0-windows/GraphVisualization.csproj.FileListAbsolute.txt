@@ -1,0 +1,15 @@
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\bin\Debug\net7.0-windows\GraphVisualization.exe
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\bin\Debug\net7.0-windows\GraphVisualization.deps.json
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\bin\Debug\net7.0-windows\GraphVisualization.runtimeconfig.json
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\bin\Debug\net7.0-windows\GraphVisualization.dll
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\bin\Debug\net7.0-windows\GraphVisualization.pdb
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\obj\Debug\net7.0-windows\GraphVisualization.csproj.AssemblyReference.cache
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\obj\Debug\net7.0-windows\GraphVisualization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\obj\Debug\net7.0-windows\GraphVisualization.AssemblyInfoInputs.cache
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\obj\Debug\net7.0-windows\GraphVisualization.AssemblyInfo.cs
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\obj\Debug\net7.0-windows\GraphVisualization.csproj.CoreCompileInputs.cache
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\obj\Debug\net7.0-windows\GraphVisualization.dll
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\obj\Debug\net7.0-windows\refint\GraphVisualization.dll
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\obj\Debug\net7.0-windows\GraphVisualization.pdb
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\obj\Debug\net7.0-windows\GraphVisualization.genruntimeconfig.cache
+C:\Google Drive\C# Projects\GraphVisualization\GraphVisualization\obj\Debug\net7.0-windows\ref\GraphVisualization.dll
